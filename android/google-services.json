@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369601187259",
+    "firebase_url": "https://foodshop-3d3fd-default-rtdb.firebaseio.com",
+    "project_id": "foodshop-3d3fd",
+    "storage_bucket": "foodshop-3d3fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369601187259:android:293eb33bc11c766961489e",
+        "android_client_info": {
+          "package_name": "com.webmartit.foodshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369601187259-dv76mp39a3iij2gtt4rcvqe469e0554n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrdbJwBBkswSpLwg2DCbFzg-AUpPa81lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369601187259-dv76mp39a3iij2gtt4rcvqe469e0554n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
