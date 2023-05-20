@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:369601187259:android:293eb33bc11c766961489e",
+        "mobilesdk_app_id": "1:369601187259:android:43f859078b63d9cb61489e",
         "android_client_info": {
-          "package_name": "com.webmartit.foodshop"
+          "package_name": "com.example.flutter_food_shop_app"
         }
       },
       "oauth_client": [
